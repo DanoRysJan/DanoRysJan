@@ -28,3 +28,4 @@
 [![Generic badge](https://img.shields.io/badge/Linux-✓-brightgreen.svg?style=flat&logo=linux&labelColor=black)](https://www.linux.org/)
 [![Generic badge](https://img.shields.io/badge/Vscode-✓-brightgreen.svg?style=flat&logo=visual-studio-code&labelColor=blue)](https://code.visualstudio.com/)
 [![Generic badge](https://img.shields.io/badge/Firebase-✓-brightgreen.svg?style=flat&logo=firebase&labelColor=black)](https://firebase.com/)
+[![Generic badge](https://img.shields.io/badge/Nginx-✓-brightgreen.svg?style=flat&logo=nginx&labelColor=black)](https://www.nginx.com/)
