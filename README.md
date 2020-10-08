@@ -22,6 +22,8 @@
 
 ### :bulb: Others . . .
 [![Generic badge](https://img.shields.io/badge/Node.js-✓-brightgreen.svg?style=flat&logo=nodejs&labelColor=black)](https://nodejs.org)
+[![Generic badge](https://img.shields.io/badge/nestjs-✓-brightgreen.svg?style=flat&logo=nestjs&labelColor=black)](https://nestjs.com)
+[![Generic badge](https://img.shields.io/badge/expressjs-✓-brightgreen.svg?style=flat&logo=express&labelColor=white)](https://expressjs.com)
 [![Generic badge](https://img.shields.io/badge/GIT-✓-brightgreen.svg?style=flat&logo=git&labelColor=blue)](https://git-scm.com/)
 [![Generic badge](https://img.shields.io/badge/Bootstrap-✓-brightgreen.svg?style=flat&logo=bootstrap&labelColor=blueviolet)](https://getbootstrap.com/)
 [![Generic badge](https://img.shields.io/badge/Docker-✓-brightgreen.svg?style=flat&logo=docker&labelColor=black)](https://www.docker.com/)
